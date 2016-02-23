@@ -1,38 +1,38 @@
 body {
   background-color: yellow;
 }
+/*Text at the very top of the page*/
 div.title {
   text-align: center;
   font-size: xx-large;
   color: red;
   background-color: black;
 }
+/*Picture of Fox from CSS screen*/
 div.image {
   text-align: center;
 }
-/* Kept trying alignment tags until the image was centered, text align worked*/
+/*Information to be input*/
 .details{
   color: red;
 }
+/*Information put in by me*/
 .details span{
   color: gray;
   font-size: x-large;
 }
+/*section separations for each training level*/
 h3 {
   text-align: center;
   color: white;
   background-color: black
   
 }
-#move-list {
+/*List of things to be practiced in Movement*/
+.ulists {
   color: darkred;
-  
+  font-size: x-large;
 }
-#bandb-list {
-  color: purple;
-}
-#atech-list {
-  color: darkblue;
   
 }
 ul {
