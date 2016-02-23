@@ -16,10 +16,13 @@ div.image {
 .details{
   color: red;
 }
-/*Information put in by me*/
 .details span{
-  color: gray;
-  font-size: x-large;
+  background-color: black;
+}
+.intro {
+  font-size: xx-large;
+  color: yellow;
+  background-color: black;
 }
 /*section separations for each training level*/
 h3 {
