@@ -1,0 +1,62 @@
+div.title {
+  text-align: center;
+  font-size: xx-large;
+  color: red;
+  background-color: black;
+}
+div.image {
+  text-align: center;
+}
+/* Kept trying alignment tags until the image was centered, text align worked*/
+.details{
+  color: red;
+}
+.details span{
+  color: gray;
+  font-size: x-large;
+}
+h3 {
+  text-align: center;
+  color: white;
+  background-color: black
+  
+}
+#move-list {
+  color: darkred;
+  
+}
+#bandb-list {
+  color: purple;
+}
+#atech-list {
+  color: darkblue;
+  
+}
+ul {
+  font-size: x-large
+}
+#contents a {
+  color: black;
+}
+.expl {
+  font-style: italic;
+}
+ol {
+  font-size: large;
+}
+#conc a {
+  font-style: italic;
+  color: blue;
+}
+ #logo {
+  background-color: black;
+  margin-left: 240px;
+}
+#game {
+  float: right;
+  margin-top: -250px;
+  margin-right: 40px;
+}
+ol,ul {
+  font-weight: bold
+}
