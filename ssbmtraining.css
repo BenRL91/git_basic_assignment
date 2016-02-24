@@ -42,12 +42,14 @@ h1 {
 /*List of things to be practiced in Movement*/
 .ulists {
   color: darkred;
+  background-color: darkgray;
   font-size: x-large;
 }
-  
+.ulistsspecial{
+  font-size: x-large;
+  background-color: gray;
+  color: black;
 }
-ul {
-  font-size: x-large
 }
 #contents a {
   color: black;
