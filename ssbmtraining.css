@@ -1,6 +1,9 @@
 body {
   background-color: yellow;
 }
+.top {
+  background-color: gray;
+}
 /*Text at the very top of the page*/
 div.title {
   text-align: center;
@@ -11,6 +14,11 @@ div.title {
 /*Picture of Fox from CSS screen*/
 div.image {
   text-align: center;
+}
+
+}
+.fox3 {
+  float: right;
 }
 /*Information to be input*/
 .details{
@@ -25,7 +33,7 @@ div.image {
   background-color: black;
 }
 /*section separations for each training level*/
-h3 {
+h1 {
   text-align: center;
   color: white;
   background-color: black
@@ -50,17 +58,17 @@ ul {
 ol {
   font-size: large;
 }
-#conc a {
+.conc a {
   font-style: italic;
   color: black;
 }
- #logo {
+ .logo {
   background-color: black;
   margin-left: 240px;
 }
 #game {
   float: right;
-  margin-top: -250px;
+  margin-top: -150px;
   margin-right: 40px;
 }
 ol,ul {
