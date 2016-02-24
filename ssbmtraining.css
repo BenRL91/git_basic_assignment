@@ -76,3 +76,11 @@ ol {
 ol,ul {
   font-weight: bold
 }
+.vodlink {
+  color: orange;
+  background-color: black;
+}
+.vodlink a {
+  color: teal;
+  background-color: black;
+}
